@@ -15,7 +15,7 @@ https://dagshub.com/ByteDance/AnimateDiff-Lightning
 https://arxiv.org/abs/2403.12706
 
 ### 🖼 Output
-)
+
 
 ### 🏢 Sponsor
 https://modelslab.com
