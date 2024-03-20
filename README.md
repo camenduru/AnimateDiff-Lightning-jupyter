@@ -16,6 +16,7 @@ https://arxiv.org/abs/2403.12706
 
 ### 🖼 Output
 
+https://github.com/camenduru/AnimateDiff-Lightning-jupyter/assets/54370274/332dd8a1-e085-4523-b0ad-6b85df20fc41
 
 ### 🏢 Sponsor
 https://modelslab.com
